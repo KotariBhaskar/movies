@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+}
+#img1{
+    height: 500px;
+    width: 350px;
+}
+.img3:hover{
+    scale: 1.1;
+
+}
+.img3{
+    transition-duration: 1s;
+}
+.btn{
+    cursor: pointer;
+}
